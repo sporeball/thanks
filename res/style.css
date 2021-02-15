@@ -1,0 +1,47 @@
+body {
+  font-family:"Nunito Sans";
+  line-height:1.4;
+  background-color:#dad3f4;
+  color:#2d1d73
+}
+
+main {
+  max-width:70ch;
+  padding:2ch;
+  margin:auto
+}
+
+h1, h2, h3 {
+  font-weight:400
+}
+
+h2, h3 {
+  margin-bottom:0
+}
+
+a {
+  color:#2d1d73
+}
+
+a:active {
+  color:#5438ce
+}
+
+small {
+  font-size:80%;
+  color:#5438ce
+}
+
+center small {
+  display:block;
+  margin-bottom:0.1rem
+}
+
+.l {
+  margin-bottom:2.8rem
+}
+
+.f {
+  font-style:italic;
+  text-decoration:underline
+}
